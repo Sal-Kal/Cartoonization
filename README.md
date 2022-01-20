@@ -16,4 +16,3 @@ There are five files necessary to build this web app:
 5)Aptfile: additional file for buildpacks to enable OpenCV to operate within Heroku.
 
 
-With Heroku CLI you can use this command to add the buildpacks:heroku create --buildpack https://github.com/heroku/heroku-buildpack-apt.git
