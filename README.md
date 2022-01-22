@@ -15,4 +15,4 @@ There are five files necessary to build this web app:
 
 5)Aptfile: additional file for buildpacks to enable OpenCV to operate within Heroku.
 
-Link fo the project:-https://image-cartooning-app.herokuapp.com/
+Link for the project:-https://image-cartooning-app.herokuapp.com/
